@@ -4,9 +4,11 @@ function operaciones(){
 
     let suma= num1 +num2;
     let resta= num1 - num2;
+    let division = num1 / num2;
     console.log("Resultados:\n"+
         "Suma: "+suma+"\n"+
-        "Resta: "+resta+"\n"
+        "Resta: "+resta+"\n"+
+        "Division: "+division+"\n"
 
     );
 }    
