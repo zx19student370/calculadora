@@ -3,8 +3,11 @@ function operaciones(){
     let num2 = parseInt(prompt("dime el segundo numero"));
 
     let suma= num1 +num2;
+    let division = num1/num2;
     console.log("Resultados:\n"+
-        "Suma: "+suma+"\n"
+        "Suma: "+suma+"\n",
+        "Division: "+division+"\n"
+
 
     );
 }    
