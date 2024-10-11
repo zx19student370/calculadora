@@ -1,6 +1,7 @@
 function operaciones(){
     let num1 = parseInt(prompt("dime el primer numero"));
     let num2 = parseInt(prompt("dime el segundo numero"));
+    let num3 = parseInt(prompt("dime el tercer numero"));
 
     let suma= num1 +num2;
     let resta= num1 - num2;
